@@ -72,6 +72,13 @@ h6 {
     display: inline-block;
 }
 
+.clients {
+  background: #f3f9fd;
+  padding: 23px 20px;
+  text-align: center;
+  margin-top: -80px;
+}
+
 }
 
 #header {
